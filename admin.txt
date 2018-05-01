@@ -1,4 +1,4 @@
-﻿<ADMIN10000> 
+<ADMIN10000> 
 100000={启动更新="真"};
 100001={更新方式="网盘下载"};
 100002={最新版本="2.9549"};
@@ -19,7 +19,7 @@
 </ADMIN20000>
 
 <ADMIN40000>
-100001={agent="https://gitee.com/ysmptt/30000/raw/master/agent.txt"};
+100001={agent="https://gitee.com/Xingkong52_admin/2403278686/raw/master/agent.txt"};
 100002={feedback="https://gitee.com/ysmptt/30000/raw/master/feedback.txt"};
 100003={key="https://gitee.com/ysmptt/30000/raw/master/key.txt"};
 100004={jxapi="https://gitee.com/ysmptt/30000/raw/master/jxapi.txt"};
