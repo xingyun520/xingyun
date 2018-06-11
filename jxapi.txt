@@ -1,7 +1,7 @@
 <jxapi>
 
 iqiyi={
-@01="http://yun.baiyug.cn/vip/?url="
+@01="http://jqaaa.com/jx.php?url="
 @02="http://jqaaa.com/jx.php?url="
 @03="http://jqaaa.com/jx.php?url="
 @04="http://www.wmxz.wang/video.php?url="
@@ -13,7 +13,7 @@ iqiyi={
 };
 
 qq={
-@01="http://yun.baiyug.cn/vip/?url="
+@01=http://jqaaa.com/jx.php?url="
 @02="http://jqaaa.com/jx.php?url="
 @03="http://www.wmxz.wang/video.php?url="
 @04="http://api.wlzhan.com/sudu/?url="
