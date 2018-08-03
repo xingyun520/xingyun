@@ -1,7 +1,7 @@
 <jxapi>
 
 iqiyi={
-@01="http://jiexi.92fz.cn/player/vip.php?url="
+@01="http://api.pucms.com/?url="
 @02="http://jqaaa.com/jx.php?url="
 @03="http://jqaaa.com/jx.php?url="
 @04="http://www.wmxz.wang/video.php?url="
@@ -13,7 +13,7 @@ iqiyi={
 };
 
 qq={
-@01=http://jiexi.92fz.cn/player/vip.php?url="
+@01="http://api.pucms.com/?url="
 @02="http://jqaaa.com/jx.php?url="
 @03="http://www.wmxz.wang/video.php?url="
 @04="http://api.wlzhan.com/sudu/?url="
@@ -25,7 +25,7 @@ qq={
 };
 
 mgtv={
-@01="http://jiexi.92fz.cn/player/vip.php?url="
+@01="http://api.pucms.com/?url="
 @02="http://player.kuaikanwu.com/index.php?url="
 @03="http://api.wlzhan.com/sudu/?url="
 @04="http://jiexi.92fz.cn/player/vip.php?url="
@@ -49,7 +49,7 @@ letv={
 };
 
 youku={
-@01="http://jiexi.92fz.cn/player/vip.php?url="
+@01="http://api.pucms.com/?url="
 @02="http://player.kuaikanwu.com/index.php?url="
 @03="http://api.baiyug.cn/vip/index.php?url="
 @04="http://api.coolnan.net/vip.asp?url="
